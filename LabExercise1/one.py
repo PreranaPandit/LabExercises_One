@@ -19,6 +19,8 @@ print(f"The sum is: {addition}")
 a = int(input("Enter the first value: "))
 b = int(input("Enter the second value: "))
 c = int(input("Enter the third value: "))
+
 sum_num = a+b+c
-print(f"The sum of given three numbers is: {sum_num}")
+
+print(f"The sum of given three numbers is {sum_num}")
 
